@@ -1,0 +1,10 @@
+﻿  CS 330 Milestone.cpp
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(294,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(420,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(421,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(425,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(426,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(428,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(429,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cristian\source\repos\CS 330 Milestone\CS 330 Milestone.cpp(439,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS 330 Milestone.vcxproj -> C:\Users\Cristian\source\repos\CS 330 Milestone\Debug\CS 330 Milestone.exe
